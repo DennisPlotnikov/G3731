@@ -3,18 +3,19 @@
 //  5 -> 2, 4
 //  8 -> 2, 4, 6, 8
 
+//Считываем данные с консоли 1 число
 String? impNum = Console.ReadLine();
-
+//Проверяем, чтобы данные были не пустыми
 if (impNum != null)
 {
-    int enumber = int.Parse(impNum);
-    String result = String.Empty;
+    int enumber = int.Parse(impNum); //Парсим введенное число
+    String result = String.Empty; //Делаем переменную пустой
 
-    for (int i = 2; i < enumber; i = i + 2)
+    for (int i = 2; i < enumber; i = i + 2) //создаем цикл
     {
-        result = result + i + ";";
+        result = result + i + ","; //Аккумулируем результат
     }
-    if (enumber % 2 == 0)
-    result = result + enumber;
-    Console.WriteLine(result);
+    if (enumber % 2 == 0) //если последнее число целое, тогда 
+        result = result + enumber; //дописываем в переменную само значение
+        Console.WriteLine(result.TrimEnd(',')); //выводим результат, убираем последнюю запятую
 }
