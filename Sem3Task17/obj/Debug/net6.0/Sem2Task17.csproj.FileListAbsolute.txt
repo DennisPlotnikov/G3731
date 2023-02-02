@@ -1,0 +1,15 @@
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.csproj.AssemblyReference.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.AssemblyInfoInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.AssemblyInfo.cs
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.csproj.CoreCompileInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\bin\Debug\net6.0\Sem2Task17.exe
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\bin\Debug\net6.0\Sem2Task17.deps.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\bin\Debug\net6.0\Sem2Task17.runtimeconfig.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\bin\Debug\net6.0\Sem2Task17.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\bin\Debug\net6.0\Sem2Task17.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\refint\Sem2Task17.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.genruntimeconfig.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\ref\Sem2Task17.dll
