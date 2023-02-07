@@ -1,0 +1,15 @@
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\bin\Debug\net6.0\Sem4Task24.exe
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\bin\Debug\net6.0\Sem4Task24.deps.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\bin\Debug\net6.0\Sem4Task24.runtimeconfig.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\bin\Debug\net6.0\Sem4Task24.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\bin\Debug\net6.0\Sem4Task24.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.csproj.AssemblyReference.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.AssemblyInfoInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.AssemblyInfo.cs
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.csproj.CoreCompileInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\refint\Sem4Task24.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\Sem4Task24.genruntimeconfig.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem4Task24\obj\Debug\net6.0\ref\Sem4Task24.dll

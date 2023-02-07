@@ -13,3 +13,18 @@ C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Deb
 C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.pdb
 C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\Sem2Task17.genruntimeconfig.cache
 C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem2Task17\obj\Debug\net6.0\ref\Sem2Task17.dll
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\bin\Debug\net6.0\Sem2Task17.exe
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\bin\Debug\net6.0\Sem2Task17.deps.json
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\bin\Debug\net6.0\Sem2Task17.runtimeconfig.json
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\bin\Debug\net6.0\Sem2Task17.dll
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\bin\Debug\net6.0\Sem2Task17.pdb
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.csproj.AssemblyReference.cache
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.AssemblyInfoInputs.cache
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.AssemblyInfo.cs
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.csproj.CoreCompileInputs.cache
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.dll
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\refint\Sem2Task17.dll
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.pdb
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\Sem2Task17.genruntimeconfig.cache
+C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem3Task17\obj\Debug\net6.0\ref\Sem2Task17.dll
