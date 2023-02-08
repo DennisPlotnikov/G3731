@@ -24,7 +24,7 @@ string ReadDataStr(string msg)
 
 int[] coord(string str)
 {
-    int[] res = str.Split(" ".ToCharArray()).Select(x => int.Parse(x)).ToArray();
+    int[] res = str.(" ".ToCharArray()).Select(x => int.Parse(x)).ToArray();
     return res;
 }
 
