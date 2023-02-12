@@ -5,12 +5,12 @@
 // * Сделать метод загрузки точек
 
 //Метод читает данные от пользователя
-int ReadData(string msg)
+// int ReadData(string msg)
 
-{
-    Console.Write(msg);
-    return int.Parse(Console.ReadLine() ?? "0");
-}
+// {
+//     Console.Write(msg);
+//     return int.Parse(Console.ReadLine() ?? "0");
+// }
 
 //Метод читает строку от пользователя
 
