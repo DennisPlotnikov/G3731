@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Денис Плотников\\Desktop\\GB_Learn\\G3731\\Sem7Task48\\Sem7Task48.csproj": {}
+    "C:\\Users\\fordm\\OneDrive\\Рабочий стол\\Обучение GB\\C#\\Seminar1\\G3731\\Sem7Task48\\Sem7Task48.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Денис Плотников\\Desktop\\GB_Learn\\G3731\\Sem7Task48\\Sem7Task48.csproj": {
+    "C:\\Users\\fordm\\OneDrive\\Рабочий стол\\Обучение GB\\C#\\Seminar1\\G3731\\Sem7Task48\\Sem7Task48.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Денис Плотников\\Desktop\\GB_Learn\\G3731\\Sem7Task48\\Sem7Task48.csproj",
+        "projectUniqueName": "C:\\Users\\fordm\\OneDrive\\Рабочий стол\\Обучение GB\\C#\\Seminar1\\G3731\\Sem7Task48\\Sem7Task48.csproj",
         "projectName": "Sem7Task48",
-        "projectPath": "C:\\Users\\Денис Плотников\\Desktop\\GB_Learn\\G3731\\Sem7Task48\\Sem7Task48.csproj",
-        "packagesPath": "C:\\Users\\Денис Плотников\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Денис Плотников\\Desktop\\GB_Learn\\G3731\\Sem7Task48\\obj\\",
+        "projectPath": "C:\\Users\\fordm\\OneDrive\\Рабочий стол\\Обучение GB\\C#\\Seminar1\\G3731\\Sem7Task48\\Sem7Task48.csproj",
+        "packagesPath": "C:\\Users\\fordm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fordm\\OneDrive\\Рабочий стол\\Обучение GB\\C#\\Seminar1\\G3731\\Sem7Task48\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Денис Плотников\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fordm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

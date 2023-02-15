@@ -1,4 +1,18 @@
-﻿// Задача №48
+﻿// Задача №49
+// Задайте двумерный массив. Найдите элементы, у
+// которых оба индекса чётные, и замените эти
+// элементы на их квадраты.
+// Например:
+// Например, изначально массив выглядел вот так:
+// 1 4 7 2
+// 5 9 2 3
+// 8 4 2 4
+// Новый массив будет выглядеть вот так:
+// 1 4 7 2
+// 5 81 2 9
+// 8 4 2 4
+
+// Задача №48
 // Задайте двумерный массив размера m на n, каждый
 // элемент в массиве находится по формуле: Aₘₙ =
 // m+n. Выведите полученный массив на экран.
@@ -71,38 +85,74 @@
 // PrintTwoDimArray(matrix);
 
 
+
 int InputNum(string msg)
 {
     Console.Write(msg);
     return int.Parse(Console.ReadLine() ?? "0");
 }
 
-int[,] CreateArray(int xlen, int ylen)
+
+int[,] FillTwoDimArray(int countRow, int countColumn)
 {
-    int[,] arr = new int[ylen, xlen];
-    for (int i = 0; i < ylen; i++)
+    System.Random numberSyntezator = new System.Random();
+    int i = 0; int j = 0;
+    int[,] outArray = new int[countRow, countColumn];
+    while (i < countRow)
     {
-        for (int j = 0; j < xlen; j++)
+        j = 0;
+        while (j < countColumn)
         {
-            arr[i, j] = j+i;
+            outArray[i, j] = numberSyntezator.Next(0, 101);
+            j++;
         }
+        i++;
     }
-    return arr;
+    return outArray;
 }
 
-void ShowArray(int[,] arr)
+
+int[,] SquareReplace(int[,] outArray)
 {
-    for (int i = 0; i <= arr.GetUpperBound(0); i++)
+    for (int i = 0; i < outArray.GetLength(0); i=i+2)
     {
-        for (int j = 0; j <= arr.GetUpperBound(1); j++)
+        for (int j = 0; j < outArray.GetLength(1); j=j+2)
+            if ((i % 2 == 0) && (j % 2 == 0)) ;
         {
-            Console.Write(arr[i, j] + "\t");
+            arr[i, j] = Math.Pow(outArray[i, j]);
         }
-        Console.WriteLine("");
+    }
+
+}
+
+
+void PrintTwoDimArray(int[,] inputArray)
+{
+    int i = 0; int j = 0;
+    while (i < inputArray.GetLength(0))
+    {
+        j = 0;
+        while (j < inputArray.GetLength(1))
+        {
+            Console.Write(inputArray[i, j] + " ");
+            j++;
+        }
+        Console.WriteLine();
+        i++;
     }
 }
 
-int xlen = InputNum("Ваше число столбцов:");
-int ylen = InputNum("Ваше число строк:");
-int[,] matrix = CreateArray(xlen, ylen);
-ShowArray(matrix);
+
+//1) Получение данных от пользователя
+int n = InputNum("Количество строк матрицы");
+int m = InputNum("Количество столбцов матрицы");
+
+//2) Генерация двумерного массива
+int[,] matrix = FillTwoDimArray(n, m);
+
+//3) Печатаем двумерный массив
+PrintTwoDimArray(matrix);
+
+int[,] matrix = SquareReplace(FillTwoDimArray);
+
+PrintTwoDimArray(matrix);
