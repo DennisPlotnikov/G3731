@@ -12,15 +12,6 @@
 // 5 81 2 9
 // 8 4 2 4
 
-// Задача №48
-// Задайте двумерный массив размера m на n, каждый
-// элемент в массиве находится по формуле: Aₘₙ =
-// m+n. Выведите полученный массив на экран.
-// Пример:
-// m = 3, n = 4.
-// 0 1 2 3
-// 1 2 3 4
-// 2 3 4 5
 
 // ConsoleColor[] col = new ConsoleColor[]{ConsoleColor.Black,ConsoleColor.Blue,ConsoleColor.Cyan,
 //                                         ConsoleColor.DarkBlue,ConsoleColor.DarkCyan,ConsoleColor.DarkGray,
@@ -84,75 +75,55 @@
 // //3) Печатаем двумерный массив
 // PrintTwoDimArray(matrix);
 
-
-
 int InputNum(string msg)
 {
-    Console.Write(msg);
-    return int.Parse(Console.ReadLine() ?? "0");
+  Console.Write(msg);
+  return int.Parse(Console.ReadLine() ?? "0");
 }
 
-
-int[,] FillTwoDimArray(int countRow, int countColumn)
+int[,] Gen2DArr(int xlen, int ylen)
 {
-    System.Random numberSyntezator = new System.Random();
-    int i = 0; int j = 0;
-    int[,] outArray = new int[countRow, countColumn];
-    while (i < countRow)
+  int[,] arr = new int[ylen, xlen];
+  for (int i = 0; i < ylen; i++)
+  {
+    for (int j = 0; j < xlen; j++)
     {
-        j = 0;
-        while (j < countColumn)
-        {
-            outArray[i, j] = numberSyntezator.Next(0, 101);
-            j++;
-        }
-        i++;
+      arr[i, j] = j + i;
     }
-    return outArray;
+  }
+  return arr;
 }
 
-
-int[,] SquareReplace(int[,] outArray)
+void Print2DArr(int[,] arr)
 {
-    for (int i = 0; i < outArray.GetLength(0); i=i+2)
+  for (int i = 0; i < arr.GetLength(0); i++)
+  {
+    for (int j = 0; j < arr.GetLength(1); j++)
     {
-        for (int j = 0; j < outArray.GetLength(1); j=j+2)
-            if ((i % 2 == 0) && (j % 2 == 0)) ;
-        {
-            arr[i, j] = Math.Pow(outArray[i, j]);
-        }
+      Console.Write(arr[i, j] + "\t");
     }
-
+    Console.WriteLine("");
+  }
 }
 
-
-void PrintTwoDimArray(int[,] inputArray)
+void Update2DArr(int[,] arr)
 {
-    int i = 0; int j = 0;
-    while (i < inputArray.GetLength(0))
+  for (int i = 0; i < arr.GetLength(0); i = i + 2)
+  {
+    for (int j = 0; j < arr.GetLength(1); j = j + 2)
     {
-        j = 0;
-        while (j < inputArray.GetLength(1))
-        {
-            Console.Write(inputArray[i, j] + " ");
-            j++;
-        }
-        Console.WriteLine();
-        i++;
+      //arr[i, j]*=arr[i, j] ;
+      //arr[i, j]=arr[i, j]*arr[i, j];
+      arr[i, j] = (int)Math.Pow(arr[i, j], 2);
     }
+  }
 }
 
 
-//1) Получение данных от пользователя
-int n = InputNum("Количество строк матрицы");
-int m = InputNum("Количество столбцов матрицы");
-
-//2) Генерация двумерного массива
-int[,] matrix = FillTwoDimArray(n, m);
-
-//3) Печатаем двумерный массив
-PrintTwoDimArray(matrix);
-
-int[,] matrix = SquareReplace(FillTwoDimArray);
-
-PrintTwoDimArray(matrix);
+int xlen = InputNum("Ваше число столбцов: ");
+int ylen = InputNum("Ваше число строк: ");
+int[,] matrix = Gen2DArr(xlen, ylen);
+Print2DArr(matrix);
+Update2DArr(matrix);
+Console.WriteLine();
+Print2DArr(matrix);

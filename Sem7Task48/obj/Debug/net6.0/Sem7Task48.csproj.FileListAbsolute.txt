@@ -18,3 +18,13 @@ C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\
 C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem7Task48\obj\Debug\net6.0\Sem7Task48.pdb
 C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem7Task48\obj\Debug\net6.0\Sem7Task48.genruntimeconfig.cache
 C:\Users\fordm\OneDrive\Рабочий стол\Обучение GB\C#\Seminar1\G3731\Sem7Task48\obj\Debug\net6.0\ref\Sem7Task48.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\bin\Debug\net6.0\Sem7Task48.exe
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\bin\Debug\net6.0\Sem7Task48.deps.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\bin\Debug\net6.0\Sem7Task48.runtimeconfig.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\bin\Debug\net6.0\Sem7Task48.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\bin\Debug\net6.0\Sem7Task48.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\obj\Debug\net6.0\Sem7Task48.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\obj\Debug\net6.0\refint\Sem7Task48.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\obj\Debug\net6.0\Sem7Task48.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\obj\Debug\net6.0\Sem7Task48.genruntimeconfig.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task48\obj\Debug\net6.0\ref\Sem7Task48.dll

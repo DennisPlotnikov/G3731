@@ -1,0 +1,15 @@
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\bin\Debug\net6.0\Sem7Task50.exe
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\bin\Debug\net6.0\Sem7Task50.deps.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\bin\Debug\net6.0\Sem7Task50.runtimeconfig.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\bin\Debug\net6.0\Sem7Task50.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\bin\Debug\net6.0\Sem7Task50.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.csproj.AssemblyReference.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.AssemblyInfoInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.AssemblyInfo.cs
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.csproj.CoreCompileInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\refint\Sem7Task50.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\Sem7Task50.genruntimeconfig.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem7Task50\obj\Debug\net6.0\ref\Sem7Task50.dll
