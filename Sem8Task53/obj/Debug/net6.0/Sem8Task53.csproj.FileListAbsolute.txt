@@ -1,0 +1,15 @@
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.csproj.AssemblyReference.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.AssemblyInfoInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.AssemblyInfo.cs
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.csproj.CoreCompileInputs.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\bin\Debug\net6.0\Sem8Task53.exe
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\bin\Debug\net6.0\Sem8Task53.deps.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\bin\Debug\net6.0\Sem8Task53.runtimeconfig.json
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\bin\Debug\net6.0\Sem8Task53.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\bin\Debug\net6.0\Sem8Task53.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\refint\Sem8Task53.dll
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.pdb
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\Sem8Task53.genruntimeconfig.cache
+C:\Users\Денис Плотников\Desktop\GB_Learn\G3731\Sem8Task53\obj\Debug\net6.0\ref\Sem8Task53.dll
